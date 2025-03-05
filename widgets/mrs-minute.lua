@@ -1,6 +1,6 @@
 --[[
     Author: jerrygems
-    Description: It's just a fancy clock based on the character from the loki (series) called miss-minute
+    Description: It's just a fancy clock based on the character from the loki (series) called mrs-minute
 ]]
 
 
